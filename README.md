@@ -1,2 +1,0 @@
-# aprendendo
-Tutorial de aprendizado
